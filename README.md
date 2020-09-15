@@ -1,4 +1,4 @@
-# Guessing Game - Unix WorkBench Assignment
+# Guessing Game - Unix WorkBench
 
 * Make file creation time: 2018-11-04:21:09:41
 
